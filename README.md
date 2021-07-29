@@ -28,4 +28,4 @@ style space, enabling interactive text-driven image
 manipulation. Extensive results and comparisons demonstrate
 the effectiveness of our approaches.
 
-Forked from [original](https://github.com/orpatashnik/StyleCLIP) to allow for more seed generations and automated manipulation. This repository relies on the same licenses as the original.
+Forked from [original](https://github.com/orpatashnik/StyleCLIP) to generate more seeds and automate manipulation. This repository relies on the same licenses as the original.
